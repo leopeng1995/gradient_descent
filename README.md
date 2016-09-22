@@ -1,5 +1,4 @@
-Stochastic Gradient Descent
+Machine Learning Codebase and Notebooks
 ====
 
-This IPython notebook gives a tutorial for implementing gradient descent and stochastic gradient descent in Python. This work is based on the algorithm described by Andrew Ng in Stanford CS 229 course. See http://cs229.stanford.edu/ for more info.
-The ipynb file should be viewable as HTML on GitHub if you don't have iPython installed locally.
+Sincely thanks to dtnewman's contribution. Without his work, I won't to continue this project. This project includes codebase and notebooks about machine learning.
